@@ -1,0 +1,7 @@
+C:\Users\mithu\source\repos\MinimumTimeDifference\bin\Debug\MinimumTimeDifference.exe.config
+C:\Users\mithu\source\repos\MinimumTimeDifference\bin\Debug\MinimumTimeDifference.exe
+C:\Users\mithu\source\repos\MinimumTimeDifference\bin\Debug\MinimumTimeDifference.pdb
+C:\Users\mithu\source\repos\MinimumTimeDifference\obj\Debug\MinimumTimeDifference.csproj.AssemblyReference.cache
+C:\Users\mithu\source\repos\MinimumTimeDifference\obj\Debug\MinimumTimeDifference.csproj.CoreCompileInputs.cache
+C:\Users\mithu\source\repos\MinimumTimeDifference\obj\Debug\MinimumTimeDifference.exe
+C:\Users\mithu\source\repos\MinimumTimeDifference\obj\Debug\MinimumTimeDifference.pdb

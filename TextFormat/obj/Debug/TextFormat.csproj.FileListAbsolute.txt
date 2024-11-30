@@ -1,0 +1,7 @@
+C:\Users\mithu\source\repos\TextFormat\bin\Debug\TextFormat.exe.config
+C:\Users\mithu\source\repos\TextFormat\bin\Debug\TextFormat.exe
+C:\Users\mithu\source\repos\TextFormat\bin\Debug\TextFormat.pdb
+C:\Users\mithu\source\repos\TextFormat\obj\Debug\TextFormat.csproj.AssemblyReference.cache
+C:\Users\mithu\source\repos\TextFormat\obj\Debug\TextFormat.csproj.CoreCompileInputs.cache
+C:\Users\mithu\source\repos\TextFormat\obj\Debug\TextFormat.exe
+C:\Users\mithu\source\repos\TextFormat\obj\Debug\TextFormat.pdb

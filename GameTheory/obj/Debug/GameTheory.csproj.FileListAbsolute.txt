@@ -1,0 +1,7 @@
+C:\Users\mithu\source\repos\GameTheory\bin\Debug\GameTheory.exe.config
+C:\Users\mithu\source\repos\GameTheory\bin\Debug\GameTheory.exe
+C:\Users\mithu\source\repos\GameTheory\bin\Debug\GameTheory.pdb
+C:\Users\mithu\source\repos\GameTheory\obj\Debug\GameTheory.csproj.AssemblyReference.cache
+C:\Users\mithu\source\repos\GameTheory\obj\Debug\GameTheory.csproj.CoreCompileInputs.cache
+C:\Users\mithu\source\repos\GameTheory\obj\Debug\GameTheory.exe
+C:\Users\mithu\source\repos\GameTheory\obj\Debug\GameTheory.pdb
